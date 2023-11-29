@@ -1,6 +1,6 @@
 # Customer Dashboard for American Bank 
 ## OVERVIEW
-This is Customer Dashboard created for an American Bank it provides a comprehensive view of customers data and It offers insights into various aspects such as customer demographics, account balances, and account openings which can help the bank manager to analyse and make informed decisions.
+This is Customer Dashboard created for an American Bank it provides a comprehensive view of customers data and It offers insights into various aspects such as customer demographics, account balances, and account openings which can help the bank manager to analyse and make informed decisions. Used the hypothetical data for this project.
 
 ## PROBLEM STATEMENT
 American Bank wants to understand their customer demographics and account opening trends to provide better services to customers and innovate new marketing strategies which can help them to increase their customer base.
